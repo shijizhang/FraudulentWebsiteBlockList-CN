@@ -1,2 +1,2 @@
 # FraudulentWebsiteBlockList-CN
-诈骗/非法集资网站封锁列表
+诈骗/非法集资网站封锁列表-测试
