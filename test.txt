@@ -18,4 +18,4 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
-||baidu.com^
+!||baidu.com^
